@@ -1,0 +1,14 @@
+C:\Users\HENRY\Desktop\WebApiTestPromart\WebApiTestPromart\bin\Release\netcoreapp2.1\WebApiTestPromart.deps.json
+C:\Users\HENRY\Desktop\WebApiTestPromart\WebApiTestPromart\bin\Release\netcoreapp2.1\WebApiTestPromart.runtimeconfig.json
+C:\Users\HENRY\Desktop\WebApiTestPromart\WebApiTestPromart\bin\Release\netcoreapp2.1\WebApiTestPromart.runtimeconfig.dev.json
+C:\Users\HENRY\Desktop\WebApiTestPromart\WebApiTestPromart\bin\Release\netcoreapp2.1\WebApiTestPromart.dll
+C:\Users\HENRY\Desktop\WebApiTestPromart\WebApiTestPromart\bin\Release\netcoreapp2.1\WebApiTestPromart.pdb
+C:\Users\HENRY\Desktop\WebApiTestPromart\WebApiTestPromart\obj\Release\netcoreapp2.1\WebApiTestPromart.csproj.CoreCompileInputs.cache
+C:\Users\HENRY\Desktop\WebApiTestPromart\WebApiTestPromart\obj\Release\netcoreapp2.1\WebApiTestPromart.RazorAssemblyInfo.cache
+C:\Users\HENRY\Desktop\WebApiTestPromart\WebApiTestPromart\obj\Release\netcoreapp2.1\WebApiTestPromart.RazorAssemblyInfo.cs
+C:\Users\HENRY\Desktop\WebApiTestPromart\WebApiTestPromart\obj\Release\netcoreapp2.1\WebApiTestPromart.AssemblyInfoInputs.cache
+C:\Users\HENRY\Desktop\WebApiTestPromart\WebApiTestPromart\obj\Release\netcoreapp2.1\WebApiTestPromart.AssemblyInfo.cs
+C:\Users\HENRY\Desktop\WebApiTestPromart\WebApiTestPromart\obj\Release\netcoreapp2.1\WebApiTestPromart.RazorTargetAssemblyInfo.cache
+C:\Users\HENRY\Desktop\WebApiTestPromart\WebApiTestPromart\obj\Release\netcoreapp2.1\WebApiTestPromart.dll
+C:\Users\HENRY\Desktop\WebApiTestPromart\WebApiTestPromart\obj\Release\netcoreapp2.1\WebApiTestPromart.pdb
+C:\Users\HENRY\Desktop\WebApiTestPromart\WebApiTestPromart\obj\Release\netcoreapp2.1\WebApiTestPromart.csprojAssemblyReference.cache
